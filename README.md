@@ -5,5 +5,9 @@ I decided to add it to GitHub, because I'll probably end up needing to make more
 
 ## List of Search URLs
 ###### Right click whichever one you want to use and click *Copy link address*
+
+### Skyrim
 ---
-[Skyrim Special Edition URL](https://www.nexusmods.com/skyrimspecialedition/search/?currentgame=1704&gsearchtype=mods&gsearch=%s&tab=mods)
+[Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/search/?currentgame=1704&gsearchtype=mods&gsearch=%s&tab=mods)
+
+[Skyrim aka 'Oldrim'](https://www.nexusmods.com/skyrim/search/?gsearch=%s&gsearchtype=mods&tab=mods)
