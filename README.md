@@ -1,7 +1,7 @@
 # NexusModsCustomSearchEngines
-Handy custom Chromium browser search engine URLs for Nexus Mods! 
-After making a custom search engine for Skyrim Special Edition mods for my internet browser, I figured I should share it with others. 
-I decided to add it to GitHub, because I'll probably end up needing to make more for other games.
+Handy Chromium browser search engine URLs for Nexus Mods! 
+
+If you don't know how to add custom search engines to your Chromium browser, see [this tutorial](https://imgur.com/gallery/e1tstEi) I threw together on Imgur
 
 ## List of Search URLs
 ###### Right click whichever one you want to use and click *Copy link address*
@@ -14,4 +14,4 @@ I decided to add it to GitHub, because I'll probably end up needing to make more
 
 
 ## Notes
-If you add `&BH=0` to the end of the URL, it will sort the mods by downloads descending, but Nexus Mods is super script heavy, so I've omitted it from the search URL because sometimes it'll redirect you to a prior search result.
+If you add `&BH=0` to the end of the URL, it will sort the mods by downloads descending, however Nexus Mods is super script heavy, and I've omitted it from the search URL because sometimes it'll cause you to be redirected to a prior search result for some reason.
