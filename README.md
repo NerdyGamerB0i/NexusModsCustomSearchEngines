@@ -6,9 +6,13 @@ If you don't know how to add custom search engines to your Chromium browser, see
 ## List of Search URLs
 ###### Right click whichever one you want to use and click *Copy link address*
 
-### Skyrim
+### The Elder Scrolls Series
 
-[Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/search/?currentgame=1704&gsearchtype=mods&gsearch=%s&tab=mods)
+[Morrowind](https://www.nexusmods.com/morrowind/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Oblivion](https://www.nexusmods.com/oblivion/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Skyrim aka 'Oldrim'](https://www.nexusmods.com/skyrim/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
