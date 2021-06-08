@@ -6,6 +6,9 @@ If you don't know how to add custom search engines to your Chromium browser, see
 ## List of Search URLs
 ###### Just CTRL-F to find the game you're looking for and right click whichever one you want to use and click *Copy link address*
 
+## Note
+If you add `&BH=0` to the end of a search URL, it will sort the mods by downloads descending, however Nexus Mods is super script heavy, and I've omitted it from the search URL because sometimes it'll cause you to be redirected to a prior search result for some reason.
+
 [.hack G.U Last Recode](https://nexusmods.com/hacklastrecode/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [20XX](https://nexusmods.com/20xx/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -101,6 +104,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Ash of Gods: Redemption](https://nexusmods.com/ashofgodsredemption/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Assassin's Creed](https://nexusmods.com/assassinscreed/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Assassin's Creed Freedom Cry](https://nexusmods.com/assassinscreedfreedomcry/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Assassin's Creed II](https://nexusmods.com/assassinscreedii/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -696,6 +701,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Endless Space 2](https://nexusmods.com/endlessspace2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Endzone - A World Apart](https://nexusmods.com/endzoneaworldapart/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Enslaved: Odyssey to the West](https://nexusmods.com/enslavedodysseytothewest/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Erannorth Reborn](https://nexusmods.com/erannorthreborn/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -902,6 +909,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Gloomhaven](https://nexusmods.com/gloomhaven/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Going Medieval](https://nexusmods.com/goingmedieval/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Gothic](https://nexusmods.com/gothic/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Gothic 2](https://nexusmods.com/gothic2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -1098,6 +1107,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Just Cause 4](https://nexusmods.com/justcause4/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[KARLSON](https://nexusmods.com/karlson/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [KILL la KILL -IF](https://nexusmods.com/killlakillif/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Kenshi](https://nexusmods.com/kenshi/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -1118,6 +1129,10 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Kingdom Come: Deliverance](https://nexusmods.com/kingdomcomedeliverance/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Kingdom Hearts 0.2 Birth by Sleep A fragmentary passage](https://nexusmods.com/kingdomhears02birthbysleepafragmentarypassage/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Kingdom Hearts 358 2 Days](https://nexusmods.com/kingdomhearts3582days/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Kingdom Hearts Birth by Sleep Final MIX](https://nexusmods.com/kingdomheartsbirthbysleepfinalmix/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Kingdom Hearts Final Mix](https://nexusmods.com/kingdomheartsfinalmix/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -1126,7 +1141,11 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Kingdom Hearts III](https://nexusmods.com/kingdomhearts3/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Kingdom Hearts Melody of Memory](https://nexusmods.com/kingdomheartsmelodyofmemory/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Kingdom Hearts Re:Chain of Memories](https://nexusmods.com/kingdomheartsrechainofmemories/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Kingdom Hearts Re:Coded](https://nexusmods.com/kingdomheartsrecoded/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Kingdom Rush Vengeance - Tower Defense](https://nexusmods.com/kingdomrushvengeance/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1906,6 +1925,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Sniper Ghost Warrior](https://nexusmods.com/sniperghostwarrior/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Sniper Ghost Warrior Contracts 2](https://nexusmods.com/sniperghostwarriorcontracts2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Sniper: Ghost Warrior 3](https://nexusmods.com/sniperghostwarrior3/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [SnowRunner](https://nexusmods.com/snowrunner/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -2348,6 +2369,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Transport Fever 2](https://nexusmods.com/transportfever2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Trials of Fire](https://nexusmods.com/trialsoffire/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Trials of Mana](https://nexusmods.com/trialsofmana/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Trine 4: The Nightmare Prince](https://nexusmods.com/trine4thenightmareprince/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -2627,5 +2650,3 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [theHunter: Call of the Wild](https://nexusmods.com/thehuntercallofthewild/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 
-## Notes
-If you add `&BH=0` to the end of the URL, it will sort the mods by downloads descending, however Nexus Mods is super script heavy, and I've omitted it from the search URL because sometimes it'll cause you to be redirected to a prior search result for some reason.
