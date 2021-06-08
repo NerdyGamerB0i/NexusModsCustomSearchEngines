@@ -803,19 +803,19 @@ If you add `&BH=0` to the end of a search URL, it will sort the mods by download
 
 [Fell Seal: Arbiter's Mark](https://nexusmods.com/fellsealarbitersmark/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
-[Final Fantasy 7](https://nexusmods.com/finalfantasy7/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
 [Final Fantasy III](https://nexusmods.com/finalfantasy3/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
-[Final Fantasy IX](https://nexusmods.com/finalfantasy9/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Final Fantasy V](https://nexusmods.com/finalfantasy5/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Final Fantasy VI](https://nexusmods.com/finalfantasy6/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Final Fantasy 7 (VII)](https://nexusmods.com/finalfantasy7/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Final Fantasy VIII](https://nexusmods.com/finalfantasy8/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Final Fantasy VIII Remastered](https://nexusmods.com/finalfantasy8remastered/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Final Fantasy IX](https://nexusmods.com/finalfantasy9/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Final Fantasy X/X-2 HD Remaster](https://nexusmods.com/finalfantasyxx2hdremaster/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
