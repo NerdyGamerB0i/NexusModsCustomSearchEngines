@@ -1,10 +1,11 @@
 # NexusModsCustomSearchEngines
 Handy Chromium browser search engine URLs for Nexus Mods!
 
-If you don't know how to add custom search engines to your Chromium browser, see [this tutorial](https://imgur.com/gallery/e1tstEi) I threw together on Imgur
+If you don't know how to add custom search engines to your Chromium browser, see [the readme](https://github.com/NerdyGamerB0i/NexusModsCustomSearchEngines/blob/main/README.md)
 
 ## List of Search URLs
-###### Just CTRL-F to find the game you're looking for and right click whichever one you want to use and click *Copy link address*
+###### Just CTRL-F to find the game you're looking for and right click whichever one you want to use and click *Copy link address*, paste this into the **URL** field of your *Edit search engine* window
+
 [.hack G.U Last Recode](https://nexusmods.com/hacklastrecode/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [20XX](https://nexusmods.com/20xx/search/?gsearch=%s&gsearchtype=mods&tab=mods)
