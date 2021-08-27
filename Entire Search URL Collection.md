@@ -4,7 +4,7 @@ Handy Chromium browser search engine URLs for Nexus Mods!
 If you don't know how to add custom search engines to your Chromium browser, see [the readme](https://github.com/NerdyGamerB0i/NexusModsCustomSearchEngines/blob/main/README.md)
 
 ## List of Search URLs
-###### Just CTRL-F to find the game you're looking for and right click whichever one you want to use and click *Copy link address*, paste this into the **URL** field of your *Edit search engine* window
+###### Just CTRL-F to find the game you're looking for and right click whichever one you want to use and click *Copy link address*, paste this into the **URL** field of your **Edit search engine** window
 
 [.hack G.U Last Recode](https://nexusmods.com/hacklastrecode/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -60,6 +60,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Aliens versus Predator 2](https://nexusmods.com/aliensvspredator2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Aliens: Fireteam Elite](https://nexusmods.com/aliensfireteamelite/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Amazing Cultivation Simulator](https://nexusmods.com/amazingcultivationsimulator/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [American McGee's Alice](https://nexusmods.com/americanmcgeesalice/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -91,6 +93,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Arons Adventure](https://nexusmods.com/aronsadventure/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Art of Rally](https://nexusmods.com/artofrally/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Artificer: Science of Magic](https://nexusmods.com/artificerscienceofmagic/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Arx Fatalis](https://nexusmods.com/arxfatalis/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -152,6 +156,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Banished](https://nexusmods.com/banished/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Bastion](https://nexusmods.com/bastion/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Batman: Arkham Asylum](https://nexusmods.com/batmanarkhamasylum/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Batman: Arkham City](https://nexusmods.com/batmanarkhamcity/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -206,6 +212,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Black Mesa](https://nexusmods.com/blackmesa/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Black Skylands](https://nexusmods.com/blackskylands/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Blacklight: Tango Down](https://nexusmods.com/blacklighttangodown/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Blade & Sorcery](https://nexusmods.com/bladeandsorcery/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -225,6 +233,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [BlazBlue Cross Tag Battle](https://nexusmods.com/blazbluecrosstagbattle/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Bleed](https://nexusmods.com/bleed/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Bless Unleashed](https://nexusmods.com/blessunleashed/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Blockland](https://nexusmods.com/blockland/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -252,6 +262,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Bloons TD6](https://nexusmods.com/bloonstd6/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Blue Fire](https://nexusmods.com/bluefire/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [BONEWORKS](https://nexusmods.com/boneworks/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Borderlands](https://nexusmods.com/borderlands/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -275,6 +287,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Brigand: Oaxaca](https://nexusmods.com/brigandoaxaca/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Broforce](https://nexusmods.com/broforce/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Bugsnax](https://nexusmods.com/bugsnax/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Bullet Witch](https://nexusmods.com/bulletwitch/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -312,6 +326,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Call of Duty: WWII](https://nexusmods.com/callofdutywwii/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Call of Juarez: Bound in Blood](https://nexusmods.com/callofjuarezboundinblood/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Call of Juarez: Gunslinger](https://nexusmods.com/callofjuarezgunslinger/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Call of Juarez: The Cartel](https://nexusmods.com/callofjuarezthecartel/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -320,7 +336,11 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Car Mechanic Simulator 2018](https://nexusmods.com/carmechanicsimulator2018/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Car Mechanic Simulator 2021](https://nexusmods.com/carmechanicsimulator2021/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Carmageddon Reincarnation](https://nexusmods.com/carmageddonreincarnation/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Carrier Command 2](https://nexusmods.com/carriercommand2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [CARRION](https://nexusmods.com/carrion/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -339,6 +359,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Championship Manager: Season 01-02](https://nexusmods.com/championshipmanagerseason0102/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Championship Manager: Season 03-04](https://nexusmods.com/championshipmanagerseason03/04/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Chernobylite](https://nexusmods.com/chernobylite/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Chivalry: Medieval Warfare](https://nexusmods.com/chivalry/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -376,8 +398,6 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Condemned: Criminal Origins](https://nexusmods.com/condemnedcriminalorigins/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
-[Conqueror's Blade](https://nexusmods.com/conquerorsblade/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
 [Contagion](https://nexusmods.com/contagion/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Control](https://nexusmods.com/control/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -401,6 +421,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Creatures 2](https://nexusmods.com/creatures2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Creatures 3](https://nexusmods.com/creatures3/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Creed: Rise to Glory](https://nexusmods.com/creedrisetoglory/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Crusader Kings 2](https://nexusmods.com/crusaderkings2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -508,6 +530,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Delver](https://nexusmods.com/delver/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Demon Skin](https://nexusmods.com/demonskin/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Demon's Souls](https://nexusmods.com/demonssouls/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Demons Age](https://nexusmods.com/demonsage/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -553,8 +577,6 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [DiRT 4](https://nexusmods.com/dirt4/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [DiRT Rally 2.0](https://nexusmods.com/dirtrally2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
-[Disaster Report 4: Summer Memories](https://nexusmods.com/disasterreport4summermemories/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Disciples 3: Reincarnation](https://nexusmods.com/disciples3/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -602,6 +624,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Dragon Age: Origins](https://nexusmods.com/dragonage/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[DRAGON BALL FighterZ](https://nexusmods.com/dragonballfighterz/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Dragon Ball Xenoverse](https://nexusmods.com/dragonballxenoverse/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Dragon Ball Xenoverse 2](https://nexusmods.com/dragonballxenoverse2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -632,6 +656,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Duelyst](https://nexusmods.com/duelyst/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Duke Nukem 3D](https://nexusmods.com/dukenukem3d/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Dungeon Builder](https://nexusmods.com/dungeonbuilder/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Dungeon Defenders](https://nexusmods.com/dungeondefenders/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -648,7 +674,7 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Dungeondraft](https://nexusmods.com/dungeondraft/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
-[DUSK](https://nexusmods.com/dusk/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+[Dungeons & Dragons: Dark Alliance](https://nexusmods.com/dungeonsanddragonsdarkalliance/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Dying Light](https://nexusmods.com/dyinglight/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -692,6 +718,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Endcycle VS](https://nexusmods.com/endcyclevs/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[ENDER LILIES: Quietus of the Knights](https://nexusmods.com/enderliliesquietusoftheknights/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Enderal](https://nexusmods.com/enderal/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Enderal Special Edition](https://nexusmods.com/enderalspecialedition/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -721,6 +749,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Everybody's Gone to the Rapture](https://nexusmods.com/everybodysgonetotherapture/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Evil Genius](https://nexusmods.com/evilgenius/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Evil Islands: Curse of the Lost Soul](https://nexusmods.com/evilislandscurseofthelostsoul/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Evoland](https://nexusmods.com/evoland/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -792,6 +822,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Faster Than Light](https://nexusmods.com/fasterthanlight/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[FATE](https://nexusmods.com/fate/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Fate EXTELLA](https://nexusmods.com/fateextella/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Fell Seal: Arbiter's Mark](https://nexusmods.com/fellsealarbitersmark/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -804,19 +836,25 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [FIFA 21](https://nexusmods.com/fifa21/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Final Fantasy 7](https://nexusmods.com/finalfantasy7/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Final Fantasy II Pixel Remaster](https://nexusmods.com/finalfantasy2pixelremaster/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Final Fantasy III](https://nexusmods.com/finalfantasy3/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Final Fantasy III Pixel Remaster](https://nexusmods.com/finalfantasy3pixelremaster/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Final Fantasy IX](https://nexusmods.com/finalfantasy9/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Final Fantasy Pixel Remaster](https://nexusmods.com/finalfantasypixelremaster/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Final Fantasy V](https://nexusmods.com/finalfantasy5/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Final Fantasy VI](https://nexusmods.com/finalfantasy6/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
-[Final Fantasy 7](https://nexusmods.com/finalfantasy7/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
 [Final Fantasy VIII](https://nexusmods.com/finalfantasy8/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Final Fantasy VIII Remastered](https://nexusmods.com/finalfantasy8remastered/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
-[Final Fantasy IX](https://nexusmods.com/finalfantasy9/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Final Fantasy X/X-2 HD Remaster](https://nexusmods.com/finalfantasyxx2hdremaster/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -854,6 +892,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [FortressCraft Evolved](https://nexusmods.com/fortresscraftevolved/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Forza Horizon 4](https://nexusmods.com/forzahorizon4/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Founders Fortune](https://nexusmods.com/foundersfortune/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Freecol](https://nexusmods.com/freecol/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -869,6 +909,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Frontlines: Fuel of War](https://nexusmods.com/frontlinesfuelofwar/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Frostpunk](https://nexusmods.com/frostpunk/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Frozenheim](https://nexusmods.com/frozenheim/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Gabriel Knight 3: Blood of the Sacred, Blood of the Damned](https://nexusmods.com/bloodofthesacredbloodofthedamned/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -886,6 +928,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Garry's Mod](https://nexusmods.com/garrysmod/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Gears 5](https://nexusmods.com/gears5/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Gears of War 2](https://nexusmods.com/gearsofwar2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Gears of War 3](https://nexusmods.com/gearsofwar3/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -897,6 +941,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Generation Zero](https://nexusmods.com/generationzero/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Getsu Fuma Den: Undying moon](https://nexusmods.com/getsufumadenundyingmoon/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Ghost Hunters Corp](https://nexusmods.com/ghosthuntercorp/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Ghost Recon Breakpoint](https://nexusmods.com/ghostreconbreakpoint/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -942,6 +988,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Grim Dawn](https://nexusmods.com/grimdawn/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[GRIME](https://nexusmods.com/grime/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Gris](https://nexusmods.com/gris/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Grounded](https://nexusmods.com/grounded/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -957,6 +1005,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Guilty Gear Strive](https://nexusmods.com/guiltygearstrive/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Guilty Gear Xrd](https://nexusmods.com/guiltygearxrd/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Guitar Hero World Tour](https://nexusmods.com/guitarheroworldtour/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [GUN](https://nexusmods.com/gun/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1012,9 +1062,9 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Hellgate London](https://nexusmods.com/helgatelondon/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
-[Hellion](https://nexusmods.com/hellion/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
 [Hellpoint](https://nexusmods.com/hellpoint/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Here Comes Niko](https://nexusmods.com/herecomesniko/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Heretic: Shadow of the Serpent Riders](https://nexusmods.com/hereticshadowoftheserpentriders/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1029,6 +1079,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Hexen II](https://nexusmods.com/hexenii/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Hexen: Beyond Heretic](https://nexusmods.com/hexenbeyondheretic/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Hidden & Dangerous 2: Courage Under Fire](https://nexusmods.com/hiddenanddangerous2courageunderfire/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Hitman 2](https://nexusmods.com/hitman2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1062,6 +1114,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [How to Survive 2](https://nexusmods.com/howtosurvive2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[HUMANKIND](https://nexusmods.com/humankind/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [HuniePop](https://nexusmods.com/huniepop/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Huniepop 2: Double Date](https://nexusmods.com/huniepop2doubledate/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -1070,7 +1124,11 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Hyper Light Drifter](https://nexusmods.com/hyperlightdrifter/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[I hate this game](https://nexusmods.com/ihatethisgame/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Icewind Dale 2](https://nexusmods.com/icewinddale2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Idol Manager](https://nexusmods.com/idolmanager/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Immortals Fenyx Rising](https://nexusmods.com/immortalfenyxrising/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1224,6 +1282,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Life is Strange](https://nexusmods.com/lifeistrange/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Life is Strange 2](https://nexusmods.com/lifeisstrange2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Life is Strange: Before the Storm](https://nexusmods.com/lifeisstrangebeforethestorm/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Lightning Returns: Final Fantasy XIII](https://nexusmods.com/lightningreturnsfinalfantasy13/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -1243,6 +1303,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Lord of the Rings: Battle for Middle Earth 2](https://nexusmods.com/lordoftheringsbattleformiddleearth2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Lords of the Fallen](https://nexusmods.com/lordsofthefallen/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Lost Ember](https://nexusmods.com/lostember/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Love Thyself - A Horatio Story](https://nexusmods.com/lovethyselfahoratiostory/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1366,6 +1428,10 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Monopoly](https://nexusmods.com/monopoly/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Monster Collector](https://nexusmods.com/monstercollector/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Monster Hunter Stories 2: Wings of Ruin](https://nexusmods.com/monsterhunterstories2wingsofruin/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Monster Hunter: World](https://nexusmods.com/monsterhunterworld/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Monster Sanctuary](https://nexusmods.com/monstersanctuary/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -1416,7 +1482,11 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Myst Online: Uru Live](https://nexusmods.com/mystonlineuru/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Myst V: End of Ages](https://nexusmods.com/myst5endofages/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Napoleon: Total War](https://nexusmods.com/napoleontotalwar/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Naruto to Boruto: Shinobi Striker](https://nexusmods.com/narutotoborutoshinobistriker/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Naruto Ultimate Ninja Storm 3](https://nexusmods.com/naruto3/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1433,6 +1503,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Need for Speed (2016)](https://nexusmods.com/needforspeed2016/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Need for Speed Payback](https://nexusmods.com/needforspeedpayback/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Need for Speed: Carbon](https://nexusmods.com/needforspeedcarbon/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Need For Speed: Heat](https://nexusmods.com/needforspeedheat/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1500,6 +1572,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Omerta - City of Gangsters](https://nexusmods.com/omertacityofgangsters/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Omno](https://nexusmods.com/omno/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [OMORI](https://nexusmods.com/omori/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [One Must Fall 2097](https://nexusmods.com/onemustfall2097/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -1520,7 +1594,11 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Operation Flashpoint: Resistance](https://nexusmods.com/operationflashpointresistance/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Orbitron](https://nexusmods.com/orbitron/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Orcs Must Die 2](https://nexusmods.com/orcsmustdie2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Orcs Must Die 3](https://nexusmods.com/orcsmustdie3/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Ori and the Blind Forest](https://nexusmods.com/oriandtheblindforest/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1535,6 +1613,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Outer Wilds](https://nexusmods.com/outerwilds/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Outlast](https://nexusmods.com/outlast/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Outlast 2](https://nexusmods.com/outlast2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Outward](https://nexusmods.com/outward/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1558,6 +1638,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Pathologic Classic HD](https://nexusmods.com/pathologicclassichd/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Pathos](https://nexusmods.com/pathos/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Pathway](https://nexusmods.com/pathway/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Pavlov VR](https://nexusmods.com/pavlov/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -1567,6 +1649,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [PC Building Simulator](https://nexusmods.com/pcbuildingsimulator/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Persona 4 Golden](https://nexusmods.com/persona4golden/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Persona 5 Strikers](https://nexusmods.com/persona5strikers/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Petz 5](https://nexusmods.com/petz5/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1612,13 +1696,11 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Plants vs. Zombies: Garden Warfare 2](https://nexusmods.com/plantsvszombiesgardenwarfare2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
-[Popup Dungeon](https://nexusmods.com/popupdungeon/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
 [Porno Studio Tycoon](https://nexusmods.com/pornostudiotycoon/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Portal 2](https://nexusmods.com/portal2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
-[Precursors](https://nexusmods.com/precursors/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+[Praey for the Gods](https://nexusmods.com/praeyforthegods/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Prehistoric Kingdom](https://nexusmods.com/prehistorickingdom/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1822,8 +1904,6 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Samurai Warriors 2](https://nexusmods.com/samuraiwarriors2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
-[SanctuaryRPG: Black Edition](https://nexusmods.com/sanctuaryrpgblackedition/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
 [Satisfactory](https://nexusmods.com/satisfactory/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Savage XR](https://nexusmods.com/savagexr/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -1876,6 +1956,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Shattered: Tale of the Forgotten King](https://nexusmods.com/shatteredtaleoftheforgottenking/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[She Will Punish Them](https://nexusmods.com/shewillpunishthem/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Shenmue](https://nexusmods.com/shenmue/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Shenmue 2](https://nexusmods.com/shenmue2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -1895,6 +1977,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Sid Meier's Ace Patrol](https://nexusmods.com/acepatrol/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Sid Meier's Ace Patrol: Pacific Skies](https://nexusmods.com/sidmeiersacepatrolpacificskies/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Sid Meier's Civilization III](https://nexusmods.com/civilizationiii/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Sid Meier's Civilization IV](https://nexusmods.com/civilizationiv/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1918,11 +2002,11 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [SimCity Societies](https://nexusmods.com/simcitysocieties/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[SiN: Gold](https://nexusmods.com/singold/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Singularity](https://nexusmods.com/singularity/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Sins of a Solar Empire](https://nexusmods.com/sinsofasolarempire/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
-[Sir, You Are Being Hunted](https://nexusmods.com/siryouarebeinghunted/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Skyrim](https://nexusmods.com/skyrim/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2000,13 +2084,9 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [SpellForce 2 - Demons of the Past](https://nexusmods.com/spellforce2demonsofthepast/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
-[SpellForce 2 - Master of War](https://nexusmods.com/spellforce2masterofwar/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
 [SpellForce 2 Gold Edition](https://nexusmods.com/spellforce2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Spellforce 3](https://nexusmods.com/spellforce3/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
-[SpellForce 3: Fallen God](https://nexusmods.com/spellforce3fallengod/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [SpellForce 3: Soul Harvest](https://nexusmods.com/spellforce3soulharvest/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2028,6 +2108,10 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Splinter Cell: Conviction](https://nexusmods.com/splintercellconviction/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Split Second](https://nexusmods.com/splitsecond/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](https://nexusmods.com/spongebobsquarepantsbattleforbikinibottomrehydrated/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Spore](https://nexusmods.com/spore/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Sport Mode](https://nexusmods.com/sportmode/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -2041,6 +2125,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Star Control: Origins](https://nexusmods.com/starcontrolorigins/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Star Ocean 4: The Last Hope - 4K & Full HD Remaster](https://nexusmods.com/starocean4remaster/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Star Traders: Frontiers](https://nexusmods.com/startradersfrontiers/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Star Trek Bridge Crew](https://nexusmods.com/startrekbridgecrew/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2061,6 +2147,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Star Wars Episode I: Racer](https://nexusmods.com/starwarsepisode1racer/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Star Wars Jedi Knight II: Jedi Outcast](https://nexusmods.com/jediknight2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Star Wars Jedi Knight: Dark Forces II](https://nexusmods.com/starwarsjediknightdarkforces2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Star Wars Jedi: Fallen Order](https://nexusmods.com/starwarsjedifallenorder/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2089,6 +2177,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [StarCrawlers](https://nexusmods.com/starcrawlers/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Stardew Valley](https://nexusmods.com/stardewvalley/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Starmancer](https://nexusmods.com/starmancer/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Starpoint Gemini 2](https://nexusmods.com/starpointgemini2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2136,9 +2226,13 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Summoner](https://nexusmods.com/summoner/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Sun Haven](https://nexusmods.com/sunhaven/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Sunless Sea](https://nexusmods.com/sunlesssea/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Sunset Overdrive](https://nexusmods.com/sunsetoverdrive/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Super Magbot](https://nexusmods.com/supermagbot/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Super Mario Odyssey](https://nexusmods.com/supermarioodyssey/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2165,6 +2259,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Syndicate Wars](https://nexusmods.com/syndicatewars/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [System Shock 2](https://nexusmods.com/systemshock2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[System Shock: Enhanced Edition](https://nexusmods.com/systemshockenhancededition/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Tabletop Simulator](https://nexusmods.com/tabletopsimulator/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2198,6 +2294,10 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [The Amazing Spider-Man 2](https://nexusmods.com/theamazingspiderman2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[The Ascent](https://nexusmods.com/theascent/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[The Awesome Adventures of Captain Spirit](https://nexusmods.com/theawesomeadventuresofcaptainspirit/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [The Banner Saga](https://nexusmods.com/thebannersaga/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [The Banner Saga 2](https://nexusmods.com/thebannersaga2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -2224,9 +2324,11 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [The Evil Within 2](https://nexusmods.com/theevilwithin2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
-[The Fall of the Dungeon Guardians](https://nexusmods.com/thefallofthedungeonguardians/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+[The Forgotten City](https://nexusmods.com/theforgottencity/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [The Genesis Project](https://nexusmods.com/thegenesisproject/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[The Godfather](https://nexusmods.com/thegodfather/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [The Guild 2: Renaissance](https://nexusmods.com/theguild2renaissance/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2234,9 +2336,9 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [The Isle](https://nexusmods.com/theisle/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
-[The King of Fighters XIII](https://nexusmods.com/thekingoffighters13/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
 [The King of Fighters XIV](https://nexusmods.com/thekingoffighters14/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[The Last Campfire](https://nexusmods.com/thelastcampfire/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [The Legend of Korra](https://nexusmods.com/thelegendofkorra/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2256,9 +2358,13 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [The Mercury Man](https://nexusmods.com/themercuryman/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[The Messenger](https://nexusmods.com/themessenger/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [The Movies](https://nexusmods.com/themovies/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [The Outer Worlds](https://nexusmods.com/theouterworlds/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[The Pathless](https://nexusmods.com/thepathless/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [The Punisher](https://nexusmods.com/thepunisher/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2288,9 +2394,9 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [The Surge 2](https://nexusmods.com/thesurge2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
-[The Survivalists](https://nexusmods.com/thesurvivalists/search/?gsearch=%s&gsearchtype=mods&tab=mods)
-
 [The Technomancer](https://nexusmods.com/thetechnomancer/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[The Temple of Elemental Evil](https://nexusmods.com/thetempleofelementalevil/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [The Tenants](https://nexusmods.com/thetenants/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2299,6 +2405,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [The Walking Dead](https://nexusmods.com/thewalkingdead/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [The Walking Dead Onslaught](https://nexusmods.com/thewalkingdeadonslaught/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[The Walking Dead: Saints & Sinners](https://nexusmods.com/thewalkingdeadsaintsandsinners/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [The Walking Dead: The Telltale Definitive Series](https://nexusmods.com/thewalkingdeadthetelltaledefinitiveseries/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2366,6 +2474,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Tomb Raider: Legend](https://nexusmods.com/tombraiderlegend/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Tomb Rider: Underworld](https://nexusmods.com/tombraiderunderworld/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Torchlight II](https://nexusmods.com/torchlight2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Torment: Tides of Numenera](https://nexusmods.com/tormenttidesofnumenera/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -2405,6 +2515,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Trine 4: The Nightmare Prince](https://nexusmods.com/trine4thenightmareprince/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Tropico 5](https://nexusmods.com/tropico5/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Tropico Reloaded](https://nexusmods.com/tropicoreloaded/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Trove](https://nexusmods.com/trove/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2502,6 +2614,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Wanted: Weapons of Fate](https://nexusmods.com/wantedweaponsoffate/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[War for the Overworld](https://nexusmods.com/warfortheoverworld/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [War on the Sea](https://nexusmods.com/waronthesea/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [War Thunder](https://nexusmods.com/warthunder/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -2529,6 +2643,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Warhammer 40,000: Dawn of War II: Retribution](https://nexusmods.com/dawnofwar2retribution/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Warhammer 40,000: Gladius - Relics of War](https://nexusmods.com/warhammer40000gladiusrelicsofwar/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Warhammer 40,000: Sanctus Reach](https://nexusmods.com/warhammer40000sanctusreach/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Warhammer 40,000: Space Marine](https://nexusmods.com/warhammer40000spacemarine/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2656,6 +2772,10 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Yandere Simulator](https://nexusmods.com/yanderesimulator/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Yooka-Laylee](https://nexusmods.com/yookalaylee/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Ys IX: Monstrum Nox](https://nexusmods.com/ysix/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Ys VIII: Lacrimosa of Dana](https://nexusmods.com/ysviii/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Ys: Memories of Celceta](https://nexusmods.com/ysmemoriesofcelceta/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -2664,7 +2784,11 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Yu-Gi-Oh Legacy of the Duelist: Link Evolution](https://nexusmods.com/yugiohlegacyoftheduelistlinkevolution/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[ZanZarah: The Hidden Portal](https://nexusmods.com/zanzarahthehiddenportal/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Zedfest](https://nexusmods.com/zedfest/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Zeus: Master of Olympus](https://nexusmods.com/zeusmasterofolympus/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Zombie Shooter 2](https://nexusmods.com/zombieshooter2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
