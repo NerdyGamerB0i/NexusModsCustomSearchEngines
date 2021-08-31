@@ -220,6 +220,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Blade and Soul](https://nexusmods.com/bladeandsoul/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Blade and Soul 2](https://nexusmods.com/bladeandsoul2/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Bladed Fury](https://nexusmods.com/bladedfury/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Blades of Time](https://nexusmods.com/bladesoftime/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -675,6 +677,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Dungeondraft](https://nexusmods.com/dungeondraft/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Dungeons & Dragons: Dark Alliance](https://nexusmods.com/dungeonsanddragonsdarkalliance/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Dust to the End](https://nexusmods.com/dusttotheend/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Dying Light](https://nexusmods.com/dyinglight/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -1364,6 +1368,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [Medal Of Honor](https://nexusmods.com/medalofhonor/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[Medal of Honor: Allied Assault](https://nexusmods.com/medalofhonoralliedassault/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [Medieval Dynasty](https://nexusmods.com/medievaldynasty/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Medieval II: Total War](https://nexusmods.com/medieval2totalwar/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -1479,6 +1485,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [My Time at Portia](https://nexusmods.com/mytimeatportia/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [MySims](https://nexusmods.com/mysims/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Myst](https://nexusmods.com/myst/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Myst Online: Uru Live](https://nexusmods.com/mystonlineuru/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
@@ -2402,6 +2410,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 
 [The Town Of Light](https://nexusmods.com/thetownoflight/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
+[The Turing Test](https://nexusmods.com/theturingtest/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
 [The Walking Dead](https://nexusmods.com/thewalkingdead/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [The Walking Dead Onslaught](https://nexusmods.com/thewalkingdeadonslaught/search/?gsearch=%s&gsearchtype=mods&tab=mods)
@@ -2481,6 +2491,8 @@ If you don't know how to add custom search engines to your Chromium browser, see
 [Torment: Tides of Numenera](https://nexusmods.com/tormenttidesofnumenera/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Total Annihilation](https://nexusmods.com/totalannihalation/search/?gsearch=%s&gsearchtype=mods&tab=mods)
+
+[Total Overdose: A Gunslinger's Tale in Mexico](https://nexusmods.com/totaloverdoseagunslingerstaleinmexico/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
 [Total War: ATTILA](https://nexusmods.com/totalwarattila/search/?gsearch=%s&gsearchtype=mods&tab=mods)
 
